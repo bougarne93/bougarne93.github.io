@@ -5,7 +5,9 @@
       "seller_id": "pub-1542817556211348",
       "seller_type": "PUBLISHER",
       "name": "Zinmed",
-      "domain": "bougarne93.github.io"
+      "domain": "bougarne93.github.io",
+      "is_confidential": true
     }
   ]
 }
+
